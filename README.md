@@ -2,7 +2,7 @@
 ## Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit
 🎉**Qiskit Hackathon Korea 2021 : Community Choice Award Winner**🎉
 
-### Team "Quanputing"
+### [Team "Quanputing"](https://github.com/qiskit-community/qiskit-hackathon-korea-21/issues/12)
 | name | github | role |
 |-------|--------|---------|
 |Kifumi Numata|[@kifumi](https://github.com/kifumi)|Coach, Qiskit Advocate|
