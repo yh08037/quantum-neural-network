@@ -2,3 +2,5 @@
 Build MNIST multi-label classifiers using quantum convolution layers and classical fully-connected layers.
 
 ![](../images/model2.png)
+
+![](../images/quanv.png)
