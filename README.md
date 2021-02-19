@@ -7,7 +7,7 @@
 ![](images/model1.png)
 
 <p align="center">
-<img src="images/hybrid.png" width="500">
+<img src="images/hybrid.png" width="600">
 </p>
 
 ### Model 2. CNN with Quantum Convolution Layer
