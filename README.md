@@ -1,5 +1,7 @@
-# quantum-neural-network
-Qiskit Hackathon Korea 2021 : Hybrid quantum-classical Neural Networks with PyTorch and Qiskit
+# quantum-neural-network 
+## Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit
+### [Qiskit Hackathon Korea 2021 : Community Choice Award Winner]
+
 
 <p align="center">
 <img src="images/hybrid.png" width="500">
