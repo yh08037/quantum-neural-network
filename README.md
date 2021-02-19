@@ -1,6 +1,6 @@
 # quantum-neural-network 
 ## Exploring Hybrid quantum-classical Neural Networks with PyTorch and Qiskit
-[Qiskit Hackathon Korea 2021 : Community Choice Award Winner]
+🎉**Qiskit Hackathon Korea 2021 : Community Choice Award Winner**🎉
 
 
 ### Model 1. CNN with Quantum Fully Connected Layer
