@@ -12,6 +12,7 @@
 
 ### Model 2. [CNN with Quantum Convolution Layer](https://github.com/yh08037/quantum-neural-network/tree/master/model2-conv)
 ![](images/model2.png)
+
 ![](images/quanv.png)
 
 
