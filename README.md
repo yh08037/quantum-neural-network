@@ -18,6 +18,8 @@
 
 
 ### Model 1. [CNN with Quantum Fully Connected Layer](https://github.com/yh08037/quantum-neural-network/tree/master/model1-fc)
+Build MNIST multi-label classifiers using classical convolution layers and quantum fully-connected layers.
+
 ![](images/model1.png)
 
 <p align="center">
@@ -25,6 +27,8 @@
 </p>
 
 ### Model 2. [CNN with Quantum Convolution Layer](https://github.com/yh08037/quantum-neural-network/tree/master/model2-conv)
+Build MNIST multi-label classifiers using quantum convolution layers and classical fully-connected layers.
+
 ![](images/model2.png)
 
 ![](images/quanv.png)
